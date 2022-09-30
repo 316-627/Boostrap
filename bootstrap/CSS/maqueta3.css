@@ -1,0 +1,24 @@
+#col1{
+    background-color: chocolate;
+}
+#col2{
+    background-color: coral;
+    height: 100px;
+}
+#col3{
+    background-color: rgb(30, 210, 141);
+    height: 100px;
+
+}
+#col4{
+    background-color: rgb(95, 255, 80);
+    height: 100px;
+
+}
+#col5{
+    background-color: rgb(210, 198, 30);
+    height: 200px;
+}
+#col6{
+    background-color: rgb(255, 223, 80);
+}
