@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container2{
+    position: relative;
+    top: 50px;
+}
+#h1{
+    position: relative;
+    color: #000;
+    font-size: 25pt;
+    top: 10px;
+    font-family: fantasy;
+    left: 15px;
+}
+.container3{
+    box-shadow: 10px 10px 5px #dd98c6;
+    position: relative;
+    background-color: rgb(219, 114, 196);
+    width: 280px;
+    height: 50px;
+    left: 40%;
+    top: 40px; 
+    border-radius: 15px;
+}
+.container4{
+    position: relative;
+    top: 100px;
+}
